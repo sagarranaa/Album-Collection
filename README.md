@@ -11,7 +11,9 @@ It's a ALBUM LIST APP in react, it fetches albums from fakeserver.
 - React js
 - JavaScript
 - Html
-- Css \***\*Live project link**\*****
+- Css \
+
+***\*Live project link**\*****
 - Url Link (https://spectacular-baklava-6fa327.netlify.app/)
 - vs code
 
